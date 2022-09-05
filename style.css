@@ -1,0 +1,30 @@
+h1 {
+    font-size: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a.main {
+    font-size: 22px;
+}
+
+img.header {
+    width: 500px;
+    height: auto;
+    border-radius: 8px;
+}
+
+.description .title  {
+    font-size: 30px;
+}
+
+
+.description .text {
+    font-size: 22px;
+}
+
+.steps ol,
+.ingredients ul {
+    font-size: 20px;
+}
+
+
